@@ -12,3 +12,8 @@ conda update -n base -c defaults conda
 3. Install Tensorflow = 1.1.4.
 
 # Quick Start
+Python train.py
+Python test.py
+
+# Documentation Introduction
+1. 
