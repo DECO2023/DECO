@@ -20,5 +20,5 @@ Python train/test.py
 1. DHCAC/simulator contains codes of the emulator. DHCAC/route_plan contains couriers' route plan methods in the emulator.
 2. Directory DHCAC/algorithm contains main codes of our main model DHCAC.
 3. Directory DHCAC/baseline contains main codes of our main model DHCAC.
-4. Directory DHCAC/dataProcessing contains simulated encounter data, processing codes about our data similar to the public data published in the link https://tianchi.aliyun.com /dataset/dataDetail?dataId=76359.
+4. Directory DHCAC/dataProcessing contains simulated encounter data (open-source encounter data see in the link https://tianchi.aliyun.com/dataset/119097), processing codes about our data similar to the public data published in the link https://tianchi.aliyun.com /dataset/dataDetail?dataId=76359 and https://tianchi.aliyun.com/dataset/107267.
 5. Directory DHCAC/resultProcessing contains processing codes about our result visualization.
