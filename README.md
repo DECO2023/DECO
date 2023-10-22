@@ -1,4 +1,4 @@
-# DHCAC
+# DECO
 
 This repository is the Tensorflow implementation of the DHCAC reported in the paper:
 Cooperative Order Dispatching for On-demand Delivery with Real-time Encounter Detection based on BLE Beacon Data.
